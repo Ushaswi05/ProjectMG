@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html long = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <meta http-equiv="X-UA-Compatiable" content="IE=edge">
+        <title>Memory Game</title>
+        <link rel ="Stylesheet" type="text/css" href="Style.css">
+    </head>
+<body>
+    <div class="container">
+        <h2>Memory Game</h2>
+        <div class="game"></div>
+        <button class="reset">Reset Game</button>
+    </div>
+</body>
+</html>
